@@ -1,0 +1,25 @@
+{
+    "myCardInfo": [
+        {
+            "id": "1",
+            "providerName": "Central Bank",
+            "cardName": "Central Bank of India Titanium Credit Card",
+            "cardCategory": "Titanium",
+            "cardType": "Credit"
+        },
+        {
+            "id": "2",
+            "providerName": "American Express",
+            "cardName": "American Express Payback Credit Card",
+            "cardCategory": "Women",
+            "cardType": "Credit"
+        },
+        {
+             "id": "3",
+             "providerName": "Canara Bank",
+            "cardName": "Canara Bank Classic Visa Credit Card",
+            "cardCategory": "Classic",
+            "cardType": "Credit"
+        }
+    ]
+}
